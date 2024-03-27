@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Rahma",
+    "title": "Rahma Mohammad",
     "section": "",
-    "text": "This is a Quarto website."
+    "text": "Welcome to my website! This is where you’ll get to know me and if you have more questions, you can find my contact information here."
+  },
+  {
+    "objectID": "index.html#hobbies",
+    "href": "index.html#hobbies",
+    "title": "Rahma Mohammad",
+    "section": "Hobbies:",
+    "text": "Hobbies:\nI love playing basketball, dancing, singing, and most of all, I love doing all those things with my family and friends. I also enjoy doing activities like escape rooms, bowling, paintball, laser tag, and other activities in my hometown Toronto."
+  },
+  {
+    "objectID": "index.html#languages-and-background",
+    "href": "index.html#languages-and-background",
+    "title": "Rahma Mohammad",
+    "section": "Languages and Background:",
+    "text": "Languages and Background:\nI can speak and understand Malayalam and Hindi. I can read and write Arabic, French, and Spanish and I aim to be fluent in this languages. I was born and brought up in Dubai for half my life and Toronto for the other half.\nIn this website, you can find my resume and my contact details. Hope you enjoy!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact me",
+    "section": "",
+    "text": "If you questions about me, feel free to reach out to me at rahma.binthmohammad@mail.utoronto.ca"
   }
 ]
